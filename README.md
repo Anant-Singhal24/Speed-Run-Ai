@@ -258,6 +258,10 @@ This project is part of a competition submission. All rights reserved.
 If this project works, it was carefully designed.
 If it doesn't work, it was a feature request from the future.
 
+If you find a bug, please open an issue.
+If you find the fix, please open a pull request.
+If neither of us can figure it out, we'll blame the AI tool that generated it.
+
 ---
 
 **Competition Phase**: Phase 1  
