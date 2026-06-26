@@ -255,7 +255,8 @@ This project is part of a competition submission. All rights reserved.
 
 ## 📞 Support
 
-For issues or questions about the project structure, refer to the competition guidelines or contact the development team.
+If this project works, it was carefully designed.
+If it doesn't work, it was a feature request from the future.
 
 ---
 
