@@ -80,7 +80,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/frontend-vibe.git
+git clone https://github.com/Anant-Singhal24/frontend-vibe.git
 cd frontend-vibe
 
 # Install dependencies
@@ -250,14 +250,6 @@ npm run lint
 ## 📄 License
 
 This project is part of a competition submission. All rights reserved.
-
----
-
-## 👨‍💻 Author
-
-**Frontend Developer**: [Your Name]  
-**Competition**: Next-Gen AI Platform Speed Run  
-**Date**: June 26, 2026
 
 ---
 
