@@ -1,6 +1,6 @@
 # 🚀 Next-Gen AI Platform - Premium SaaS Landing Page
 
-> **Live Demo:** [Add live project link here]
+> **Live Demo:** (https://speedrun-ai-launch.lovable.app/)
 
 A high-performance, premium SaaS landing page for an advanced AI-driven data automation platform. Built with React, TypeScript, and Vite with a focus on architectural integrity, motion choreography, and SEO optimization.
 
